@@ -207,7 +207,7 @@
 				TargetAttributes = {
 					754A0BA61DFDB19D00A7C1ED = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = 4D56X784AS;
+						DevelopmentTeam = R6B5BG54J2;
 						ProvisioningStyle = Automatic;
 					};
 					754A0BBF1DFDB19D00A7C1ED = {
@@ -425,10 +425,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 4D56X784AS;
+				DEVELOPMENT_TEAM = R6B5BG54J2;
 				INFOPLIST_FILE = socketClient/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.soft.demo1.socketClient;
+				PRODUCT_BUNDLE_IDENTIFIER = com.popoteam.zhanggeng;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -437,10 +438,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 4D56X784AS;
+				DEVELOPMENT_TEAM = R6B5BG54J2;
 				INFOPLIST_FILE = socketClient/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.soft.demo1.socketClient;
+				PRODUCT_BUNDLE_IDENTIFIER = com.popoteam.zhanggeng;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
